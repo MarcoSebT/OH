@@ -1,0 +1,1 @@
+Sangat kecil, memerlukan mikroskop untuk dilihat

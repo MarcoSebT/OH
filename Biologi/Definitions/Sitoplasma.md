@@ -1,0 +1,5 @@
+- 90% Air
+- Pelarut zat-zat kimia
+- Media terjadinya reaksi kimia sel
+- Berisi senyawa organik dan anorganik
+- Bergerak ke segala arah (gerak brown)
