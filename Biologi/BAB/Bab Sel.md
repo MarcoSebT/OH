@@ -93,12 +93,12 @@ Bedanya
 | Lisosom              | X         | V (Selalu) | V (Kadang) | 
 
 ## Membran Sel
-1. Harus ada di sel
+1. **Harus ada** di sel
 2. Lapisan tipis yang menyelubungi sel
 3. Membran sel hewan di paling luar
 4. Mengatur keluar masuknya dari dan ke dalam sel
 	Berisfat **selektif permiabel** --> menyeleksi zat berdasarkan kebutuhan
-5. Memiliki rangka dasar tersusun atas 2 lapis lemak --> lipid layer --> fosfolipid bilayer --> berikatan dengan molekul fosfat
+5. Memiliki rangka dasar tersusun atas 2 lapis lemak --> *lipid layer* --> fosfolipid bilayer --> berikatan dengan molekul fosfat
 6. Bagian kepala tersusun atas fosfat --> hidrofilik
 7. Bagian bawahnya tersusun atas lipid --> hidrofobik
 
@@ -386,17 +386,54 @@ Contoh
 		1. Air keluar, sitoplasma mengecil, plasmolisis
 			1. Plasmolisis --> membran sel copot
 
-**22 Juli**
-
 ### Transpor Aktif
-1. Memerlukan energi
+1. Memerlukan energi (ATP)
 2. Memerlukan protein membran
 3. Melawan gradien konsentrasi
 4. Memerlukam membran sel
-5. Fungsi
-6. 
+5. Beberapa zat tidak dapat lewat melalui osmosis
+	1. Glukosa
+6. Fungsi
+	1. Pompa Natrium Kalium
+		1. Memasukkan kalium ke dalam sel
+			1. Digunakan untuk metabolisme sel
+	2. Pemelihara keseimbangan dalam sel
+	3. Mengeluarkan zat sisa yang masih dapat digunakan oleh tubuh
+	4. 
 
-## Sintesis Protein
+### Primary Active
+1. https://www.youtube.com/watch?v=jsdv_jQjpeI
+2. Kebalikan transpor aktif
+3. Dari daerah konsentrasi rendah ke tinggi
+4. Sumber energi utama adalah ATP
+	1. Mengubah bentuk protein yang digunakan
+5. Menggunakan "Carrier"
+	1. Sodium (Na+) Potassium (K+)
+		1. Sodium dalam intraselluler rendah
+		2. Sodium dalam ekstracellular tinggi
+		3. Potassium dalam intracellular tinggi
+		4. Potassium dalam ekstracellular rendah
+6. Sodium Potassium mengambil 3 Na+ ekstra, mengambil fosfat, atp jadi adp
+
+### Secondary Active
+1. Pengangkutan molekul lain
+	1. Asam Amino
+	2. Glukosa
+2. 
+
+### Jenis
+1. Endositosis 
+	1. Fagositosis --> Large Solids
+	2. Pinosis --> Large Liquids
+2. Eksosistosis
+
+1. Uniport --> 1 masuk
+2. Symport --> 2 masuk
+3. Antiport --> 1 masuk 1 keluar
+
+
+
+## Sintesis Protein --> Dari buku ga masuk
 1. Makan
 2. Dicerna
 3. Molekul protein menjadi kecil sampai menjadi [[Asam Amino]]
@@ -408,6 +445,23 @@ Contoh
 8. Hasil mentah disempurnakan di Badan Golgi
 9. Dilepas dalam bentuk kantung berisi (di permukaan trans)
 
+## Reproduksi Sel
+1. Setelah mencapai umur tertentu, sel harus membelah
+2. Langsung (Biner)
+	1. Bakteri Protozoa
+3. Tahapan
+	1. IPROMAT
+		1. [[Interfase]]
+		2. [[Profase]]
+		3. Metafase
+		4. Anafase
+		5. [[Telofase]]
+4. Meiosis --> Haploid
+	1. 
+5. Mitosis --> Diploid
+	1. Mendapat sel yang serupa (2n)
+	2. Regenerasi
+6. 
 # Excess
 ## 1
 1. Nukleus
