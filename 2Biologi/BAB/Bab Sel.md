@@ -165,6 +165,7 @@ Contoh
 5. Kromosom
 	1. Kromatin yang memendek, menebal, dan menyerap warna
 6. RNA bisa keluar; DNA tidak
+7. 2 Membran
 
 ## Ribosom
 1. Ergastoplasma
