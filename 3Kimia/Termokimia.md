@@ -41,7 +41,7 @@ NH4Cl + HCl  =
 
 # Persamaan Termokimia
 	Reaksi kimia, lengkap dengan nilai ∆H
-H2($g$) + 1/2 O2($g$) --> H2O($l$) ∆H = -285 kJ
+H2($g$) + 1/2 O2( $g$ ) --> H2O( $l$ ) ∆H = -285 kJ
 1 mol       1/2 mol          1 mol
 Berapakah nilai kalor yang dihasilkan untuk 32 gram Oksigen? (Ar$_O$ = 16)
 $nO2 = 1$
